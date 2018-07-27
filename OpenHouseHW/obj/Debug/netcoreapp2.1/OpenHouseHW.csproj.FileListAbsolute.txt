@@ -1,0 +1,11 @@
+/Users/johnpaulgreer/Projects/OpenHouseHW/OpenHouseHW/bin/Debug/netcoreapp2.1/OpenHouseHW.deps.json
+/Users/johnpaulgreer/Projects/OpenHouseHW/OpenHouseHW/bin/Debug/netcoreapp2.1/OpenHouseHW.runtimeconfig.json
+/Users/johnpaulgreer/Projects/OpenHouseHW/OpenHouseHW/bin/Debug/netcoreapp2.1/OpenHouseHW.runtimeconfig.dev.json
+/Users/johnpaulgreer/Projects/OpenHouseHW/OpenHouseHW/bin/Debug/netcoreapp2.1/OpenHouseHW.dll
+/Users/johnpaulgreer/Projects/OpenHouseHW/OpenHouseHW/bin/Debug/netcoreapp2.1/OpenHouseHW.pdb
+/Users/johnpaulgreer/Projects/OpenHouseHW/OpenHouseHW/obj/Debug/netcoreapp2.1/OpenHouseHW.csprojResolveAssemblyReference.cache
+/Users/johnpaulgreer/Projects/OpenHouseHW/OpenHouseHW/obj/Debug/netcoreapp2.1/OpenHouseHW.csproj.CoreCompileInputs.cache
+/Users/johnpaulgreer/Projects/OpenHouseHW/OpenHouseHW/obj/Debug/netcoreapp2.1/OpenHouseHW.AssemblyInfoInputs.cache
+/Users/johnpaulgreer/Projects/OpenHouseHW/OpenHouseHW/obj/Debug/netcoreapp2.1/OpenHouseHW.AssemblyInfo.cs
+/Users/johnpaulgreer/Projects/OpenHouseHW/OpenHouseHW/obj/Debug/netcoreapp2.1/OpenHouseHW.dll
+/Users/johnpaulgreer/Projects/OpenHouseHW/OpenHouseHW/obj/Debug/netcoreapp2.1/OpenHouseHW.pdb

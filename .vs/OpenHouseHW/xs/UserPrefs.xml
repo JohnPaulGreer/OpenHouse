@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{C196A6A3-CD99-4793-966C-6758626C5C89}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="OpenHouseHW/Room.cs">
+    <Files>
+      <File FileName="OpenHouseHW/Program.cs" Line="43" Column="13" />
+      <File FileName="OpenHouseHW/Room.cs" Line="6" Column="9" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.OpenHouseHW PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>
