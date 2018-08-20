@@ -16,7 +16,6 @@ namespace OpenHouseHW
             {
                 Console.WriteLine("The kitchen has nice, granite counters.");
                 Console.WriteLine("The floor is tile.");
-                Console.WriteLine("The kitchen has recently been remodeled.");
 
                 Console.WriteLine("Would you like to inspect the refrigerator?");
                 userResponse = Console.ReadLine();
@@ -95,11 +94,6 @@ namespace OpenHouseHW
                     Console.WriteLine("Game Over. Try Again.");
                 }
             }
-
-
-
-
-
         }
     }
 }

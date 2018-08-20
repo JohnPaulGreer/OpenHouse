@@ -1,8 +1,8 @@
 ﻿<Properties StartupConfiguration="{C196A6A3-CD99-4793-966C-6758626C5C89}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="OpenHouseHW/Room.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="OpenHouseHW/Program.cs">
     <Files>
-      <File FileName="OpenHouseHW/Program.cs" Line="43" Column="13" />
-      <File FileName="OpenHouseHW/Room.cs" Line="6" Column="9" />
+      <File FileName="OpenHouseHW/Room.cs" Line="9" Column="1" />
+      <File FileName="OpenHouseHW/Program.cs" Line="46" Column="57" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
